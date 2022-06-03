@@ -1,0 +1,74 @@
+
+
+
+
+#navigation{
+    background-color: #1c74e9!important;
+    border-bottom: 3px solid skyblue;
+
+}
+    
+
+    #home{
+        background: url(/img/discover.jpg);
+     background-repeat:no-repeat ;
+        min-height: 760px;
+        background-size: cover;
+background-attachment: fixed;
+
+
+    }
+    .display-4{
+        color: antiquewhite;
+    }
+
+    #opsionet{
+    font-size: 30px;
+    padding-top: 15px;
+    color: white
+    }
+    #opsionet2{
+      font-size: 30px;
+      padding-top: 15px;
+      color:black
+    }
+
+
+
+    .btn-color{
+        background-color: #1c74e9;
+        color: #fff;
+        
+      }
+      
+      .profile-image-pic{
+        height: 200px;
+        width: 200px;
+        object-fit: cover;
+      }
+      
+      
+      
+      .cardbody-color{
+        background-color: #ebf2fa;
+      }
+      
+      a{
+        text-decoration: none;
+      }
+      .col-xl-8{
+          padding-top: 150px;
+      }
+
+      #link{
+          background-color: #1c74e9;
+          
+      }
+      #disabled{
+        background-color: deepskyblue;
+      }
+
+      #Join-us{
+        /* fallback for old browsers */
+        background: #1c74e9;}
+        
